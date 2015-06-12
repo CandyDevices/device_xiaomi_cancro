@@ -1,6 +1,27 @@
 [
   {
-    "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
+    "repository": "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi"
+	"branch": "sokp-l5.1"
+  },
+  {
+    "repository": "kernel_xiaomi_cancro",
+    "target_path": "kernel/xiaomi/cancro"
+	"branch": "sokp-l5.1"
+  },
+  {
+    "repository": "device_xiaomi_cancro",
+    "target_path": "device/xiaomi/cancro"
+	"branch": "sokp-l5.1"
+  },
+  {
+   "repository": "device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "sokp-l5.1"
+  },
+  {
+   "repository": "hardware_qcom_fm",
+   "target_path": "hardware/qcom/fm",
+   "branch": "sokp-l5.1"
   }
 ]
